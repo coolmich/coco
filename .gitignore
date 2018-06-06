@@ -3,4 +3,5 @@ images/
 Question_Annotations/
 Questions/
 results/
-clock_algo/train_32x32.mat
+clock_algo/*.mat
+clock_algo/*.pkl
