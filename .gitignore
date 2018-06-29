@@ -7,3 +7,4 @@ clock_algo/*.mat
 clock_algo/*.pkl
 *.pyc
 */*.pyc
+.DS_Store
